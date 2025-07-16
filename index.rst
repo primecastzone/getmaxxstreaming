@@ -10,7 +10,7 @@ Step-by-Step Guide: Use max.com/providers to Link Your Provider
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_31-removebg-preview.png
    :width: 350px
    :align: center
    :height: 100px
